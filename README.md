@@ -14,7 +14,7 @@
 - Go to the Settings section of your new repository, scroll down to the "Github Pages" section, and select the "main" as the branch to be used for GitHub pages. This will automatically build the website.
 - Customize your site
   - Enter your site name, description, etc by editing the `_config.yml` file.
-  - There are 3 different ways that you can make changes to your blog's files:
+  - There are two different ways that you can make changes to your blog's files:
     - Edit files within your in the browser at GitHub.com
     - Clone down your repository and make updates locally, then push them to your GitHub repository.
 - Publish a post
